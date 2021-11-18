@@ -1,0 +1,2 @@
+me falto terminar el delta_t de mareas a mano
+y el ejercicio optativo
